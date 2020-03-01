@@ -1,4 +1,4 @@
-# GraphVisualizer
+# GraphVisualizer ( build fails )
 A simple Graph (directed or undirected) visualizer.
 
 Visualizing some edge of some of graph becomes very difficult for some case.
